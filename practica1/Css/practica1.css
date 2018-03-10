@@ -43,7 +43,14 @@ figure {
     margin-top:3%;
     
 }
-
+div.editor{
+    display: inline-flex;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 200%;
+    padding-top: 20px;
+     
+}
 section{
     margin-left: 5%;
     margin-right: 35%;
@@ -51,7 +58,7 @@ section{
      box-sizing: border-box;
 }
 
-.fecha{
+span .fecha{
     color: darkgrey;
     margin-bottom: 10px;
 }
