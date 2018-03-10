@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+                
+}
+
+header{ background: black;
+    height: 60px;
+    padding-top: 8px;
+   
+         
+}
+
+h1{ color:white;
+    text-align: center;
+    font-style: italic
+   }
+
+
+ .pink { background-color: deeppink;
+    
+    
+    
+}
+
+ .verde { background-color: forestgreen;
+    
+} 
+
+.azul{ background-color: mediumblue;
+  
+}
+
+.amarillo{ background-color: yellow;
+    
+}
+.padre{
+ margin:0 auto;    
+}
+
+section div.linea{ 
+    width:97%;
+    height: 55px;
+    box-sizing: border-box;
+     margin-left: 10px;
+    padding-left: 92%;
+    padding-top: 5px;
+}
+    
+  
+
+section{
+    margin left: 20 px;
+    margin-right: 20 px;
+ 
+    
+}
+
+ section div.a {  
+     width:31%;
+    height: 250px;
+    display:inline-block;
+     margin: 12px; 
+    
+}
+
+
+section div.ancho {
+    width:48%;
+    height: 300px;
+    display:inline-block;
+    margin: 8px;
+     
+}  
+
+section div.anchoamarillo{ 
+    width:97%;
+    height: 95px;
+    display:inline-block;
+       margin-bottom: 20px;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-left: 2%;
+        
+}
+
+
+nav ul li {
+    display: inline-block;
+    background-color: orange;
+
+} 
+
+nav ul li a{
+    margin: 15px;
+    
+   
+}
+nav ul{
+    text-align:center;
+    margin-top: 1%;
+}
