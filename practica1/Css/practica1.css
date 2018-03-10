@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+                
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 5px;
+     
+}
+
+nav ul{
+    text-align:center;
+    margin-top: 1%;
+    padding-right: 37%;
+}
+
+
+header{
+    
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+header h1{
+    text-align:justify;
+     padding-left: 20%;
+    font-family: "Times New Roman", Times, serif;
+    font-stretch: expanded;
+    font-size: 180%;
+          }
+.padre{
+   margin-left:20%;
+    margin-right: 5%;
+    
+}
+
+figure {
+    margin-left: 5%;
+    margin-bottom: 6%;
+    margin-top:3%;
+    
+}
+
+section{
+    margin-left: 5%;
+    margin-right: 35%;
+    text-align: justify;
+     box-sizing: border-box;
+}
+
+.fecha{
+    color: darkgrey;
+    margin-bottom: 10px;
+}
+
+/*
+br{ 
+    line-height: 20%;
+
+} */
+
+
+section div span{
+    font-weight: bold;
+    color:slategrey; 
+} 
+
+
